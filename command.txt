@@ -1,0 +1,54 @@
+1) First click on Run
+2)speak - wake up or hello or are you there
+eg: wakeup jarvis or hello jarvis.
+
+To make jarvis in sleep mode - speak in your sentence = 'sleep'  
+eg: you can sleep now
+
+To exits from application or close it after saying 'sleep' command - speak = 'goodbye'
+
+
+// command for jarvis
+speak in sentence this all below word:
+
+open google
+tell me news
+open youtube
+open facebook
+open instagram
+activate how to do mod
+open discord
+open notepad   or    close notepad
+open chrome
+open adobe reader   or  close adobe reader
+open command prompt
+open camera
+ip address
+wikipedia     (say this word with what you want search on wikipedia)
+temperature
+open stack overflow
+send email to burhan
+how are you
+no thanks or thank you
+set alarm
+tell me a joke
+shut down the system
+restart the system
+sleep the system
+switch the window
+can you tweet
+where i am
+instagram profile
+take screenshot
+read pdf
+do some calculations
+how much power left
+internet speed or internet
+
+
+
+
+------------------------------------------------------
+
+
+
